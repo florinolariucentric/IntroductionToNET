@@ -1,3 +1,3 @@
 # IntroductionToNET
-Samples
-This is used for all examples discussed during the courses.
+
+#This is used for all examples discussed during the courses.
